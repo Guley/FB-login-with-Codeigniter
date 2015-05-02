@@ -8,6 +8,14 @@ But I failed to find one,so made my own repo on this.
 Although the login form displays both - 'Login with Twitter' and 'Login with Google', but I have still work to do with those options.
 So, initially only Facebook login is available. 
 
-I hope to build more on this repo , in the meantime why not play around with the code and send some PR. 
+I hope to build more on this repo , in the meantime why not play around with the code and send some PR. The aim of this project is to lay a foundation for any web application that wants to use social login system.
+
+For localhost , use:
+
+http://localhost/fb/login
+
+and for your site, use:
+
+http://site-name/fb/login
 
 Happy Coding.
