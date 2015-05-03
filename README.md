@@ -9,6 +9,7 @@ Although the login form displays both - 'Login with Twitter' and 'Login with Goo
 So, initially only Facebook login is available. 
 
 I hope to build more on this repo , in the meantime why not play around with the code and send some PR. The aim of this project is to lay a foundation for any web application that wants to use social login system.
+In the future I look ahead to add all the social API with this project which would help developers spend less time on integrating these APIs separately with their projects.
 
 For localhost , use:
 
